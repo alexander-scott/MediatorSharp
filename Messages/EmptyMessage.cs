@@ -1,5 +1,3 @@
-﻿using Core;
-
 namespace Messaging.Messages
 {
     /// <summary>
